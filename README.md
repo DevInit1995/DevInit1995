@@ -6,7 +6,7 @@
 Me chamo Jhon Kennedy Alves dos Santos, tenho 30 anso e sou natural de Minas Gerais. 
 Concluí o ensino técnico no Senai, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou cursando Ciência da Computação na Estácio. Fora a faculdade eu realizo a prática do estudo de desenvolvimento web, desenvolvendo portfólios baseadas em necessidades reais como o sistemas pdv, cátalogo de filmes e uma loja virtual de roupas.
 
-Todos os meus projetos estão disponíveis em [https://github.com/DevInit1995](https://github.com/DevInit1995)
+Todos os meus projetos estão disponíveis em [https://github.com/DevInit1995?tab=repositories](https://github.com/DevInit1995?tab=repositories)
 
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Exemplo do projeto" width="400px" align="right">
 
