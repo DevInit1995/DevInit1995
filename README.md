@@ -1,10 +1,21 @@
 # Jhon Kennedy Alves dos Santos
 
+### Ciência da Computação | Desenvolvimento Web
 
-'Ciência da computação'
+Olá! Meu nome é **Jhon Kennedy Alves dos Santos**, tenho 30 anos e sou natural de Minas Gerais.
 
-Me chamo Jhon Kennedy Alves dos Santos, tenho 30 anso e sou natural de Minas Gerais. 
-Concluí o ensino técnico no Senai, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou cursando Ciência da Computação na Estácio. Fora a faculdade eu realizo a prática do estudo de desenvolvimento web, desenvolvendo portfólios baseadas em necessidades reais como o sistemas pdv, cátalogo de filmes e uma loja virtual de roupas.
+Concluí o curso técnico em **Desenvolvimento de Sistemas pelo SENAI** e atualmente estou cursando **Ciência da Computação na Estácio**.
+
+Além da faculdade, mantenho uma rotina de estudos e prática em **desenvolvimento web**, buscando transformar os conhecimentos adquiridos em projetos baseados em necessidades reais.
+
+Atualmente, venho desenvolvendo e aprimorando projetos como:
+
+* 🛠️ **Sistema PDV para oficina**
+* 🎬 **Catálogo de filmes**
+* 👕 **Loja virtual de roupas**
+
+Meu objetivo é continuar evoluindo na área de desenvolvimento de software, fortalecendo meus conhecimentos em **programação, POO, desenvolvimento web, bancos de dados e arquitetura de aplicações**.
+
 
 Todos os meus projetos estão disponíveis em [https://github.com/DevInit1995?tab=repositories](https://github.com/DevInit1995?tab=repositories)
 
