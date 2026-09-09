@@ -23,5 +23,5 @@ Todos os meus projetos estão disponíveis em [https://github.com/DevInit1995?ta
 
 
  
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            
           
