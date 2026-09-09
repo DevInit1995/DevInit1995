@@ -22,6 +22,10 @@ Todos os meus projetos estão disponíveis em [https://github.com/DevInit1995?ta
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Exemplo do projeto" width="400px" align="right">
 
 
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            
+            <i class="devicon-bootstrap-plain"></i>
+          
  
             
           
