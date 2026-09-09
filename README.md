@@ -18,7 +18,7 @@ Meu objetivo é continuar evoluindo na área de desenvolvimento de software, for
 
 Todos os meus projetos estão disponíveis em [https://github.com/DevInit1995?tab=repositories](https://github.com/DevInit1995?tab=repositories)
 
-<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Exemplo do projeto" width="300px" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Exemplo do projeto" width="360px" align="right">
 
 ## 🛠️ Tecnologias
 
