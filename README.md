@@ -20,8 +20,8 @@ Todos os meus projetos estão disponíveis em [https://github.com/DevInit1995?ta
 
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Exemplo do projeto" width="400px" align="right">
 
-## 🛠️ Tecnologias
 
+## 🛠️ Tecnologias
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" />
